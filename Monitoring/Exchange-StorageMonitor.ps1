@@ -21,7 +21,7 @@
     .\Exchange-StorageMonitor.ps1 -Servers 'EX01.contoso.local','EX02.contoso.local'
 
 .NOTES
-    Autor:    eazzy1989
+    Autor:    Ismail Yildiz
     Erstellt: 11.06.2026
     Benötigt: WinRM/CIM-Zugriff auf die Server
 #>

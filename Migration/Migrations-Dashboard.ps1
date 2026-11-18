@@ -17,7 +17,7 @@
     .\Migrations-Dashboard.ps1 -BatchName 'Migration_Batch01' -EVGroup 'EV-Archiv-Standard'
 
 .NOTES
-    Autor:    eazzy1989
+    Autor:    Ismail Yildiz
     Erstellt: 07/2026
     Benötigt: Exchange Management Shell, ActiveDirectory-Modul
 #>

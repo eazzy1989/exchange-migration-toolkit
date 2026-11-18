@@ -17,7 +17,7 @@
     .\Grosse-Postfaecher.ps1 -BatchName 'Migration_Batch01' -MinSizeGB 10
 
 .NOTES
-    Autor:    eazzy1989
+    Autor:    Ismail Yildiz
     Erstellt: 15.07.2026
     Benötigt: Exchange Management Shell
 #>

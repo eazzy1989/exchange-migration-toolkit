@@ -21,7 +21,7 @@
     .\EV-Gruppenzuweisung-NachGroesse.ps1 -BatchName 'Migration_Batch01' -SizeLimitGB 4 -WhatIf
 
 .NOTES
-    Autor:    eazzy1989
+    Autor:    Ismail Yildiz
     Erstellt: 16.07.2026
     Benötigt: Exchange Management Shell, ActiveDirectory-Modul
 #>

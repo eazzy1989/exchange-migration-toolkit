@@ -20,7 +20,7 @@
     .\Migrationsstatus.ps1 -BatchName 'Migration_Batch01' -SourceDatabasePattern 'EX2019-MDB*' -TargetDatabasePattern 'DAG01-DB*'
 
 .NOTES
-    Autor:    eazzy1989
+    Autor:    Ismail Yildiz
     Erstellt: 15.07.2026
     Benötigt: Exchange Management Shell
 #>

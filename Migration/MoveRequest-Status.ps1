@@ -13,7 +13,7 @@
     .\MoveRequest-Status.ps1 -BatchName 'Migration_Batch01'
 
 .NOTES
-    Autor:    eazzy1989
+    Autor:    Ismail Yildiz
     Erstellt: 16.06.2026
     Benötigt: Exchange Management Shell
 #>

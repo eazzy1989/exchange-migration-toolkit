@@ -26,7 +26,7 @@
     .\Migrationsplanung.ps1 -SourceDatabasePattern 'EX2019-MDB*' -TargetDatabasePattern 'DAG01-DB*' -ExportPath 'D:\Reports'
 
 .NOTES
-    Autor:    eazzy1989
+    Autor:    Ismail Yildiz
     Erstellt: 15.07.2026
     Benötigt: Exchange Management Shell
 #>
