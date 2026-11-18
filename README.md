@@ -50,9 +50,6 @@ Beispiele:
 
 Die Skripte, die Änderungen im AD vornehmen, unterstützen `-WhatIf` und sollten zuerst damit getestet werden.
 
-## Autor
-
-
 ## Lizenz
 
 [MIT](LICENSE)
