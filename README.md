@@ -1,5 +1,7 @@
 # Exchange Migration Toolkit
 
+[![PowerShell](https://github.com/eazzy1989/exchange-migration-toolkit/actions/workflows/powershell-lint.yml/badge.svg)](https://github.com/eazzy1989/exchange-migration-toolkit/actions/workflows/powershell-lint.yml)
+
 PowerShell-Skripte für die Planung, Überwachung und Nachbereitung einer **Exchange-Postfachmigration** zwischen Datenbanken (z. B. von Exchange-2019-Einzeldatenbanken auf eine neue DAG), inklusive **Enterprise-Vault-Archivierung** und **Speicherplatz-Monitoring**.
 
 Entstanden während meines Praktikums als Fachinformatiker für Systemintegration (2026), im Rahmen einer realen Mailbox-Migration. Alle Server-, Domänen-, Datenbank- und Gruppennamen wurden durch Platzhalter ersetzt; die Werte werden über Parameter übergeben.
