@@ -1,0 +1,10 @@
+# Exporte und Logs nicht einchecken
+*.csv
+*.log
+Migrationsplanung/
+
+# Editor / OS
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
